@@ -71,8 +71,21 @@ if (is_file(DIR_STORAGE . 'vendor/autoload.php')) {
 	require_once(DIR_STORAGE . 'vendor/autoload.php');
 }
 
+// function library($class) {
+// 	$file = DIR_SYSTEM . 'library/' . str_replace('\\', '/', strtolower($class)) . '.php';
+
+// 	if (is_file($file)) {
+// 		include_once(modification($file));
+
+// 		return true;
+// 	} else {
+// 		return false;
+// 	}
+// }
+
+
 function library($class) {
-	$file = DIR_SYSTEM . 'library/' . str_replace('\\', '/', strtolower($class)) . '.php';
+	$file = './system/library/' . str_replace('\\', '/', strtolower($class)) . '.php';
 
 	if (is_file($file)) {
 		include_once(modification($file));
@@ -82,6 +95,7 @@ function library($class) {
 		return false;
 	}
 }
+
 
 spl_autoload_register('library');
 spl_autoload_extensions('.php');
