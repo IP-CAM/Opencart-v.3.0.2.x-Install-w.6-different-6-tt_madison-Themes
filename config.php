@@ -34,7 +34,7 @@ define('DIR_DOWNLOAD','https://bffkantho.herokuapp.com/storage/download/');
 define('DIR_LOGS', 'https://bffkantho.herokuapp.com/storage/logs/');
 define('DIR_MODIFICATION', 'https://bffkantho.herokuapp.com/storage/modification/');
 define('DIR_SESSION', 'https://bffkantho.herokuapp.com/storage/session/');
-define('DIR_UPLOAD', 'https://bffkantho.herokuapp.com/storage/upload/');
+define('DIR_UPLOAD', './storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');

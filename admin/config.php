@@ -24,13 +24,20 @@ define('DIR_SESSION', DIR_STORAGE . 'session/');
 define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 
 // DB
+// define('DB_DRIVER', 'mysqli');
+// define('DB_HOSTNAME', 'localhost');
+// define('DB_USERNAME', 'root');
+// define('DB_PASSWORD', '');
+// define('DB_DATABASE', 'shophoa');
+// define('DB_PORT', '3306');
+// define('DB_PREFIX', 'oc_');
+
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_DATABASE', 'shophoa');
+define('DB_HOSTNAME', 'emotemysql.com');
+define('DB_USERNAME', 'IiHy9FtpdT');
+define('DB_PASSWORD', 'E01ulHmRHB');
+define('DB_DATABASE', 'IiHy9FtpdT');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
-
 // OpenCart API
 define('OPENCART_SERVER', 'https://www.opencart.com/');
