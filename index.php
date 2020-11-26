@@ -17,6 +17,6 @@ if (!defined('https://bffkantho.herokuapp.com/catalog/')) {
 }
 
 // Startup
-require_once('./system/startup.php');
+require_once('/system/startup.php');
 
 start('catalog');
