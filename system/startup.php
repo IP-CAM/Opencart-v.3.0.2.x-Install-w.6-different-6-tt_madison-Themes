@@ -87,14 +87,23 @@ spl_autoload_register('library');
 spl_autoload_extensions('.php');
 
 // Engine
-require_once(modification(DIR_SYSTEM . 'engine/action.php'));
-require_once(modification(DIR_SYSTEM . 'engine/controller.php'));
-require_once(modification(DIR_SYSTEM . 'engine/event.php'));
-require_once(modification(DIR_SYSTEM . 'engine/router.php'));
-require_once(modification(DIR_SYSTEM . 'engine/loader.php'));
-require_once(modification(DIR_SYSTEM . 'engine/model.php'));
-require_once(modification(DIR_SYSTEM . 'engine/registry.php'));
-require_once(modification(DIR_SYSTEM . 'engine/proxy.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/action.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/controller.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/event.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/router.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/loader.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/model.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/registry.php'));
+// require_once(modification(DIR_SYSTEM . 'engine/proxy.php'));
+
+require_once(modification('./system/engine/action.php'));
+require_once(modification('./system/engine/controller.php'));
+require_once(modification('./system/engine/event.php'));
+require_once(modification('./system/engine/router.php'));
+require_once(modification('./system/engine/loader.php'));
+require_once(modification('./system/engine/model.php'));
+require_once(modification('./system/engine/registry.php'));
+require_once(modification('./system/engine/proxy.php'));
 
 // Helper
 require_once(DIR_SYSTEM . 'helper/general.php');
