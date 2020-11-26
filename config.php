@@ -26,15 +26,15 @@ define('DIR_SYSTEM', 'https://bffkantho.herokuapp.com/system/');
 define('DIR_IMAGE', 'https://bffkantho.herokuapp.com/image/');
 
 define('DIR_STORAGE', 'https://bffkantho.herokuapp.com/storage/');
-define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
-define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
+define('DIR_LANGUAGE', 'https://bffkantho.herokuapp.com/catalog/language/');
+define('DIR_TEMPLATE', 'https://bffkantho.herokuapp.com/catalog/view/theme/');
 define('DIR_CONFIG', './system/config/');
-define('DIR_CACHE', DIR_STORAGE . 'cache/');
-define('DIR_DOWNLOAD', DIR_STORAGE . 'download/');
-define('DIR_LOGS', DIR_STORAGE . 'logs/');
-define('DIR_MODIFICATION', DIR_STORAGE . 'modification/');
-define('DIR_SESSION', DIR_STORAGE . 'session/');
-define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
+define('DIR_CACHE','https://bffkantho.herokuapp.com/storage/cache/');
+define('DIR_DOWNLOAD','https://bffkantho.herokuapp.com/storage/download/');
+define('DIR_LOGS', 'https://bffkantho.herokuapp.com/storage/logs/');
+define('DIR_MODIFICATION', 'https://bffkantho.herokuapp.com/storage/modification/');
+define('DIR_SESSION', 'https://bffkantho.herokuapp.com/storage/session/');
+define('DIR_UPLOAD', 'https://bffkantho.herokuapp.com/storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
