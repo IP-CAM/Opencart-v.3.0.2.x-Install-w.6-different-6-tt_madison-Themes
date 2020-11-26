@@ -28,7 +28,7 @@ define('DIR_IMAGE', 'https://bffkantho.herokuapp.com/image/');
 define('DIR_STORAGE', 'https://bffkantho.herokuapp.com/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
-define('DIR_CONFIG', DIR_SYSTEM . 'config/');
+define('DIR_CONFIG', './system/config/');
 define('DIR_CACHE', DIR_STORAGE . 'cache/');
 define('DIR_DOWNLOAD', DIR_STORAGE . 'download/');
 define('DIR_LOGS', DIR_STORAGE . 'logs/');
