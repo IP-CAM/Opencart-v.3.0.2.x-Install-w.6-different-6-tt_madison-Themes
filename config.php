@@ -38,7 +38,7 @@ define('DIR_UPLOAD', './storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'emotemysql.com');
+define('DB_HOSTNAME', 'remotemysql.com');
 define('DB_USERNAME', 'IiHy9FtpdT');
 define('DB_PASSWORD', 'E01ulHmRHB');
 define('DB_DATABASE', 'IiHy9FtpdT');
