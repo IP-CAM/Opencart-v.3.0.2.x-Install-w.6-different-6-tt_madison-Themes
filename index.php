@@ -11,7 +11,7 @@ if (is_file('config.php')) {
 }
 
 // Install
-if (!defined('DIR_APPLICATION')) {
+if (!defined('https://bffkantho.herokuapp.com/catalog/')) {
 	header('Location: install/index.php');
 	exit;
 }
