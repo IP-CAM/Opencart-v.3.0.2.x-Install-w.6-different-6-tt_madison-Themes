@@ -19,7 +19,7 @@ class Log {
 	 * @param	string	$filename
  	*/
 	public function __construct($filename) {
-		$this->handle = fopen('./store/logs/' . $filename, 'a');
+		$this->handle = fopen('./storgare/logs/' . $filename, 'a');
 	}
 	
 	/**
