@@ -1,0 +1,77 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      {% if informations %}
+      <div class="col-sm-3">
+        <h5>{{ text_information }}</h5>
+        <ul class="list-unstyled">
+         {% for information in informations %}
+          <li><a href="{{ information.href }}">{{ information.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      <div class="col-sm-3">
+        <h5>{{ text_service }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+          <li><a href="{{ return }}">{{ text_return }}</a></li>
+          <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>{{ text_extra }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ manufacturer }}">{{ text_manufacturer }}</a></li>
+          <li><a href="{{ voucher }}">{{ text_voucher }}</a></li>
+          <li><a href="{{ affiliate }}">{{ text_affiliate }}</a></li>
+          <li><a href="{{ special }}">{{ text_special }}</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>{{ text_account }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ account }}">{{ text_account }}</a></li>
+          <li><a href="{{ order }}">{{ text_order }}</a></li>
+          <li><a href="{{ wishlist }}">{{ text_wishlist }}</a></li>
+          <li><a href="{{ newsletter }}">{{ text_newsletter }}</a></li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <p>{{ powered }}</p>
+  </div>
+</footer>
+
+               {% if module_social_chat_status %}
+
+              <!-- WhatsHelp.io widget -->
+              <script type="text/javascript">
+                  (function () {
+                      var options = {
+                          facebook: "{{ module_social_chat_facebook }}", // Facebook page ID
+                          whatsapp: "{{ module_social_chat_whatsapp }}", // WhatsApp number
+                          email: "{{ module_social_chat_email }}", // Email
+                          call: "{{ module_social_chat_call }}", // Call phone number
+                          call_to_action: "{{ module_social_chat_call_to_action }}", // Call to action
+                          button_color: "{{ module_social_chat_button_color }}", // Color of button
+                          position: "{{ module_social_chat_position }}", // Position may be 'right' or 'left'
+                          order: "{{ module_social_chat_order }}" // Order of buttons
+                      };
+                      var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+                      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+                      s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+                      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                  })();
+              </script>
+
+              {% endif %}
+              
+{% for script in scripts %}
+<script src="{{ script }}" type="text/javascript"></script>
+{% endfor %}
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+</body></html>

@@ -1,0 +1,130 @@
+2020-11-02 16:22:15 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:22:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:22:15 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:22:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:22:56 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:22:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:22:56 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:22:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:23:32 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:23:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:23:32 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:23:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:24:00 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:24:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:24:00 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:24:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:25:17 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:25:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:25:17 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:25:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:25:59 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:25:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:25:59 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:25:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:28:21 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:28:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:28:21 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:28:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:28:49 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:28:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:28:49 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:28:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:39:58 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:39:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:39:58 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:39:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:41:26 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:41:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:41:26 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:41:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:42:50 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:42:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:42:50 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:42:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:43:24 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:43:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:43:24 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:43:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 16:45:07 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 16:45:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 16:45:07 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 16:45:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 17:00:51 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-02 17:00:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-02 17:00:51 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-02 17:00:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-02 17:40:21 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 17:40:23 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 18:55:25 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 19:03:43 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 75
+2020-11-02 19:05:49 - PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\smtp.php on line 87
+2020-11-02 19:05:49 - PHP Warning:  fsockopen(): Failed to enable crypto in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\smtp.php on line 87
+2020-11-02 19:05:49 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:587 (Unknown error) in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\smtp.php on line 87
+2020-11-02 20:02:05 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 20:02:07 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 20:02:12 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 20:02:14 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 20:08:06 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-02 20:08:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\mail\mail.php on line 77
+2020-11-04 1:08:23 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:08:23 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:08:23 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:08:23 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:08:23 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:08:23 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:10:56 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 1:12:45 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 2:53:08 - PHP Warning:  Division by zero in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\localisation\currency.php on line 141
+2020-11-04 12:43:42 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-04 12:43:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-04 12:43:42 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-04 12:43:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-04 12:46:38 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-04 12:46:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-04 12:46:38 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-04 12:46:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-04 12:46:55 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-04 12:46:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-04 12:46:55 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-04 12:46:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-04 12:48:31 - PHP Notice:  Undefined index: sub_item_position2 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 591
+2020-11-04 12:48:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 593
+2020-11-04 12:48:31 - PHP Notice:  Undefined index: sub_item_position3 in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 597
+2020-11-04 12:48:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\controller\extension\module\ocmegamenu.php on line 599
+2020-11-04 14:28:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\catalog\controller\extension\module\ajaxlogin.php on line 332
+2020-11-04 14:28:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\catalog\controller\extension\module\ajaxlogin.php on line 339
+2020-11-04 14:28:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\catalog\controller\extension\module\ajaxlogin.php on line 346
+2020-11-04 14:28:37 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\catalog\controller\extension\module\ajaxlogin.php on line 346
+2020-11-04 14:28:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\catalog\controller\extension\module\ajaxlogin.php on line 349
+2020-11-05 14:41:11 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\design\layout.php on line 38
+2020-11-06 4:55:02 - PHP Warning:  fopen(C:/xampp/htdocs/ShopHoa/tt_madison_quickstart/storage/cache/cache.catalog.language.1604642102): failed to open stream: Permission denied in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 49
+2020-11-06 4:55:02 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 51
+2020-11-06 4:55:02 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 53
+2020-11-06 4:55:02 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 55
+2020-11-06 4:55:02 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 57
+2020-11-06 4:55:02 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\system\library\cache\file.php on line 59
+2020-11-12 14:37:01 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\design\layout.php on line 38
+2020-11-12 14:37:01 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\design\layout.php on line 38
+2020-11-12 14:37:01 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\design\layout.php on line 38
+2020-11-12 14:37:01 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\admin\model\design\layout.php on line 38
+2020-11-17 13:36:14 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\storage\modification\catalog\controller\account\login.php on line 163
+2020-11-17 13:36:14 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\storage\modification\catalog\controller\account\login.php on line 170
+2020-11-17 13:36:14 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\storage\modification\catalog\controller\account\login.php on line 177
+2020-11-17 13:36:14 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\ShopHoa\tt_madison_quickstart\storage\modification\catalog\controller\account\login.php on line 180
