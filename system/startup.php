@@ -106,9 +106,16 @@ require_once(modification('./system/engine/registry.php'));
 require_once(modification('./system/engine/proxy.php'));
 
 // Helper
-require_once(DIR_SYSTEM . 'helper/general.php');
-require_once(DIR_SYSTEM . 'helper/utf8.php');
+// require_once(DIR_SYSTEM . 'helper/general.php');
+// require_once(DIR_SYSTEM . 'helper/utf8.php');
+
+// function start($application_config) {
+// 	require_once(DIR_SYSTEM . 'framework.php');	
+// }
+
+require_once('./system/helper/general.php');
+require_once('./system/helper/utf8.php');
 
 function start($application_config) {
-	require_once(DIR_SYSTEM . 'framework.php');	
+	require_once('./system/framework.php');	
 }
